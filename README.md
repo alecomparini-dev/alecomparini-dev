@@ -6,25 +6,11 @@
 </h3>
 
 
-
-<p align="center">
-  
-    
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alecomparini-dev&repo=Hangman&show_owner=false&theme=apprentice)](https://github.com/alecomparini-dev/Hangman)
-&emsp; 
-[![  Readme Card ](https://github-readme-stats.vercel.app/api/pin/?username=alecomparini-dev&repo=Smaapper&show_owner=false&theme=apprentice)](https://github.com/alecomparini-dev/Smaapper)
+<h6 align="center">
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alecomparini-dev&repo=Smaapper&show_owner=false&theme=apprentice)](https://github.com/alecomparini-dev/Smaapper)
-&emsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alecomparini-dev&repo=Smaapper&show_owner=false&theme=nord)](https://github.com/alecomparini-dev/Smaapper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alecomparini-dev&repo=Hangman&show_owner=false&theme=apprentice)](https://github.com/alecomparini-dev/Hangman) &emsp; [![  Readme Card ](https://github-readme-stats.vercel.app/api/pin/?username=alecomparini-dev&repo=Smaapper&show_owner=false&theme=apprentice)](https://github.com/alecomparini-dev/Smaapper)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alecomparini-dev&repo=Smaapper&show_owner=false&theme=apprentice)](https://github.com/alecomparini-dev/Smaapper) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alecomparini-dev&repo=Smaapper&show_owner=false&theme=nord)](https://github.com/alecomparini-dev/Smaapper)
 
-  
-
-</p>
-
-
-
-
-
+</h6>
