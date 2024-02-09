@@ -3,6 +3,7 @@
 
 <h3 align="center">
   <br>
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alecomparini-dev&repo=Hangman&show_owner=false&theme=apprentice)](https://github.com/alecomparini-dev/Hangman)
 
 
