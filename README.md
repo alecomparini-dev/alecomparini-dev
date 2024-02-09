@@ -6,9 +6,11 @@
 </h3>
 
 
-<h6 align="center">
+---
+<h3 align="center">
 
-
+  Principais Repositórios
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alecomparini-dev&repo=Hangman&show_owner=false&theme=apprentice)](https://github.com/alecomparini-dev/Hangman)
 &emsp;
 [![  Readme Card ](https://github-readme-stats.vercel.app/api/pin/?username=alecomparini-dev&repo=Smaapper&show_owner=false&theme=apprentice)](https://github.com/alecomparini-dev/Smaapper)
@@ -17,4 +19,6 @@
 &emsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alecomparini-dev&repo=Smaapper&show_owner=false&theme=nord)](https://github.com/alecomparini-dev/Smaapper)
 
-</h6>
+</h3>
+
+---
