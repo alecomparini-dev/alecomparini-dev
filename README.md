@@ -6,3 +6,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alecomparini-dev&repo=Smaapper&show_owner=false&theme=nord)](https://github.com/alecomparini-dev/Smaapper)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alecomparini-dev&repo=Smaapper&show_owner=false&theme=github_dark_dimmed)](https://github.com/alecomparini-dev/Smaapper)
+
