@@ -1,7 +1,7 @@
 
 <h3 align="center">
   <br>
-  <img src="https://github.com/alecomparini-dev/alecomparini-dev/assets/76792477/98b7fb43-6089-48b5-a16c-489a9cf2524a" width="600">
+  <img src="https://github.com/alecomparini-dev/alecomparini-dev/assets/76792477/98b7fb43-6089-48b5-a16c-489a9cf2524a" width="650">
   <br>
 </h3>
 
@@ -19,7 +19,7 @@
 
 [<img src="https://github.com/alecomparini-dev/MentoriaCodandoComMoa/assets/76792477/2de45eaf-a717-4f94-9793-a17c704357dd" width="340" height="150"/>](https://github.com/alecomparini-dev/MentoriaCodandoComMoa)
   &emsp;
-  [<img src="https://github.com/alecomparini-dev/Smaapper/assets/76792477/13409a2f-8232-4a5c-aaff-0f361ad511d3" width="340" height="140"/>](https://github.com/alecomparini-dev/Smaapper)
+  [<img src="https://github.com/alecomparini-dev/Smaapper/assets/76792477/13409a2f-8232-4a5c-aaff-0f361ad511d3" width="340" height="150"/>](https://github.com/alecomparini-dev/Smaapper)
 
 
     
