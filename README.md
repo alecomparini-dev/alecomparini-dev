@@ -15,7 +15,7 @@
 &emsp;
 [![  Readme Card ](https://github-readme-stats.vercel.app/api/pin/?username=alecomparini-dev&repo=Smaapper&show_owner=false&theme=nord)](https://github.com/alecomparini-dev/Smaapper)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alecomparini-dev&repo=currency-conversion-mvp&show_owner=false&theme=apprentice)](https://github.com/alecomparini-dev/currency-conversion-mvp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alecomparini-dev&repo=currency-conversion-mvp&show_owner=false&theme=material-palenight)](https://github.com/alecomparini-dev/currency-conversion-mvp)
 &emsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alecomparini-dev&repo=MentoriaCodandoComMoa&show_owner=false&theme=apprentice)](https://github.com/alecomparini-dev/MentoriaCodandoComMoa)
 
