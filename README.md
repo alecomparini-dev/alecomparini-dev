@@ -11,7 +11,7 @@
 
   Principais Repositórios
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alecomparini-dev&repo=Hangman&theme=shadow_blue)](https://github.com/alecomparini-dev/Hangman)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alecomparini-dev&repo=Hangman&theme=discord_old_blurple)](https://github.com/alecomparini-dev/Hangman)
 &emsp;
 [![  Readme Card ](https://github-readme-stats.vercel.app/api/pin/?username=alecomparini-dev&repo=Smaapper&show_owner=false&theme=holi)](https://github.com/alecomparini-dev/Smaapper)
 
