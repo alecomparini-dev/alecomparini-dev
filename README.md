@@ -17,7 +17,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alecomparini-dev&repo=currency-conversion-mvp&show_owner=false&theme=material-palenight)](https://github.com/alecomparini-dev/currency-conversion-mvp)
 &emsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alecomparini-dev&repo=MentoriaCodandoComMoa&show_owner=false&theme=vue-dark)](https://github.com/alecomparini-dev/MentoriaCodandoComMoa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alecomparini-dev&repo=MentoriaCodandoComMoa&show_owner=false&theme=city_lights)](https://github.com/alecomparini-dev/MentoriaCodandoComMoa)
 
 </h3>
 
