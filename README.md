@@ -1,7 +1,7 @@
 
 <h3 align="center">
   <br>
-  <img src="https://github.com/alecomparini-dev/alecomparini-dev/assets/76792477/98b7fb43-6089-48b5-a16c-489a9cf2524a" >
+  <img src="https://github.com/alecomparini-dev/alecomparini-dev/assets/76792477/98b7fb43-6089-48b5-a16c-489a9cf2524a" width="700">
   <br>
 </h3>
 
